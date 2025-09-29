@@ -30,7 +30,7 @@ import datetime
 from dinosaur import coordinate_systems
 from dinosaur import primitive_equations
 from dinosaur import scales
-from dinosaur import typing
+from dinosaur import common_typing as typing
 import jax
 import jax.numpy as jnp
 import numpy as np

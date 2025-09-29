@@ -14,6 +14,7 @@
 
 """Defines the dinosaur module."""
 
+import dinosaur.common_typing
 import dinosaur.coordinate_systems
 import dinosaur.filtering
 import dinosaur.held_suarez
@@ -30,7 +31,6 @@ import dinosaur.shallow_water_states
 import dinosaur.sigma_coordinates
 import dinosaur.spherical_harmonic
 import dinosaur.time_integration
-import dinosaur.typing
 import dinosaur.vertical_interpolation
 import dinosaur.weatherbench_utils
 import dinosaur.xarray_utils

@@ -30,7 +30,7 @@ from dinosaur import coordinate_systems
 from dinosaur import scales
 from dinosaur import shallow_water
 from dinosaur import spherical_harmonic
-from dinosaur import typing
+from dinosaur import common_typing as typing
 from dinosaur import xarray_utils
 
 import jax

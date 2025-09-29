@@ -25,7 +25,7 @@ from dinosaur import associated_legendre
 from dinosaur import fourier
 from dinosaur import jax_numpy_utils
 from dinosaur import pytree_utils
-from dinosaur import typing
+from dinosaur import common_typing as typing
 import jax
 from jax import lax
 from jax.experimental import shard_map

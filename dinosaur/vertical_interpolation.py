@@ -23,7 +23,7 @@ from typing import Any, Callable, Dict, Sequence, TypeVar, Union
 import dinosaur
 from dinosaur import pytree_utils
 from dinosaur import sigma_coordinates
-from dinosaur import typing
+from dinosaur import common_typing as typing
 import jax
 import jax.numpy as jnp
 import numpy as np

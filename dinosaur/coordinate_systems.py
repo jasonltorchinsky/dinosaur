@@ -23,7 +23,7 @@ from dinosaur import layer_coordinates
 from dinosaur import pytree_utils
 from dinosaur import sigma_coordinates
 from dinosaur import spherical_harmonic
-from dinosaur import typing
+from dinosaur import common_typing as typing
 
 import jax
 import jax.numpy as jnp

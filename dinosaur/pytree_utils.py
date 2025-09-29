@@ -18,7 +18,7 @@ import dataclasses
 import functools
 from typing import Any, Callable, Sequence
 
-from dinosaur import typing
+from dinosaur import common_typing as typing
 
 import jax
 import jax.numpy as jnp

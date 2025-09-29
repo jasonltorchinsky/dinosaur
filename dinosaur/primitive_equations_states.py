@@ -20,7 +20,7 @@ from dinosaur import coordinate_systems
 from dinosaur import filtering
 from dinosaur import primitive_equations
 from dinosaur import scales
-from dinosaur import typing
+from dinosaur import common_typing as typing
 from dinosaur import xarray_utils
 
 import jax

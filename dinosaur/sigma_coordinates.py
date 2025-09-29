@@ -24,7 +24,7 @@ import functools
 from typing import Callable
 
 from dinosaur import jax_numpy_utils
-from dinosaur import typing
+from dinosaur import common_typing as typing
 import jax
 from jax import lax
 import jax.numpy as jnp

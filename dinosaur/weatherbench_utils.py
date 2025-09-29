@@ -16,7 +16,7 @@
 
 import dataclasses
 
-from dinosaur import typing
+from dinosaur import common_typing as typing
 import tree_math
 
 

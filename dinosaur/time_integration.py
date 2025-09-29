@@ -21,7 +21,7 @@ from typing import Any, Callable, Optional, Sequence, TypeVar, Union
 
 from dinosaur import filtering
 from dinosaur import spherical_harmonic
-from dinosaur import typing
+from dinosaur import common_typing as typing
 
 import jax
 import jax.numpy as jnp
